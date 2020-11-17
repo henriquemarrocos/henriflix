@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/henriflix/static/css/main.fdd14aa9.chunk.css",
+    "main.js": "/henriflix/static/js/main.f30c4f8f.chunk.js",
+    "main.js.map": "/henriflix/static/js/main.f30c4f8f.chunk.js.map",
+    "runtime-main.js": "/henriflix/static/js/runtime-main.bf22fca0.js",
+    "runtime-main.js.map": "/henriflix/static/js/runtime-main.bf22fca0.js.map",
+    "static/js/2.403b306f.chunk.js": "/henriflix/static/js/2.403b306f.chunk.js",
+    "static/js/2.403b306f.chunk.js.map": "/henriflix/static/js/2.403b306f.chunk.js.map",
+    "index.html": "/henriflix/index.html",
+    "precache-manifest.02c54ed4f90872633f9c52cc71004691.js": "/henriflix/precache-manifest.02c54ed4f90872633f9c52cc71004691.js",
+    "service-worker.js": "/henriflix/service-worker.js",
+    "static/css/main.fdd14aa9.chunk.css.map": "/henriflix/static/css/main.fdd14aa9.chunk.css.map",
+    "static/js/2.403b306f.chunk.js.LICENSE.txt": "/henriflix/static/js/2.403b306f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf22fca0.js",
+    "static/js/2.403b306f.chunk.js",
+    "static/css/main.fdd14aa9.chunk.css",
+    "static/js/main.f30c4f8f.chunk.js"
+  ]
+}
