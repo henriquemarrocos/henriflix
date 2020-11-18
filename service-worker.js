@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/henriflix/precache-manifest.02c54ed4f90872633f9c52cc71004691.js"
+  "/henriflix/precache-manifest.92d5a88de91920f4aecdeb7cad8c20be.js"
 );
 
 self.addEventListener('message', (event) => {

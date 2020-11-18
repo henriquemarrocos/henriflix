@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8904b668e73cd6313b6139d598a16ed",
+    "revision": "429203325f0df249cd485249eab4a67e",
     "url": "/henriflix/index.html"
   },
   {
-    "revision": "56250ff3f784769d039a",
-    "url": "/henriflix/static/css/main.fdd14aa9.chunk.css"
+    "revision": "2f4368b18282ff0344b1",
+    "url": "/henriflix/static/css/main.d55c7b6a.chunk.css"
   },
   {
     "revision": "618eb3fcabbc255ad8a0",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/henriflix/static/js/2.403b306f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "56250ff3f784769d039a",
-    "url": "/henriflix/static/js/main.f30c4f8f.chunk.js"
+    "revision": "2f4368b18282ff0344b1",
+    "url": "/henriflix/static/js/main.b069141d.chunk.js"
   },
   {
     "revision": "782531f8e243696e0a9c",
